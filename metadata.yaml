@@ -1,0 +1,27 @@
+_repo: They-Shall-Not-Pass_28171
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Simonds, Frank H. (Frank Herbert)
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '33177'
+    url: http://www.gutenberg.org/2009/agents/33177
+description: ''
+gutenberg_issued: '2009-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28171'
+  lccn: '16012561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Verdun, Battle of, Verdun, France, 1916'
+title: They Shall Not Pass
+url: http://www.gutenberg.org/ebooks/28171
